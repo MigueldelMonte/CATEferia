@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CATEferia</string>
+    <string name="button_login">Iniciar Sesión</string>
+    <string name="button_sign_up">¿Todavía no tienes una cuenta? Registrate</string>
+</resources>
