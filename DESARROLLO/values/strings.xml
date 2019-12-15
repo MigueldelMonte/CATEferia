@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">CATEferia</string>
-    <string name="button_login">Iniciar Sesión</string>
+    <string name="button_login_1">Comenzar Sesión</string>
     <string name="button_sign_up">¿Todavía no tienes una cuenta? Registrate</string>
+    <string name="tv_pwd">Contraseña</string>
+    <string name="tv_login">Introduzca su número de matrícula</string>
+    <string name="button_login_2">Iniciar Sesión</string>
 </resources>
